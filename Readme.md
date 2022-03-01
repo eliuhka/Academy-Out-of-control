@@ -5,15 +5,18 @@ Hans Hannus
 Allan Rääk  
 Erki Liuhka  
 
-Project description - what you want to achieve:  
-Video game about academy life. You control a character and interact with other characters, solving puzzles
-and fighting robots.  
+Project description: 
+Video game about fighting robots.
+Out of control robots are hunting you down. You must throw critical components onto them, to fix them and make them go back to their maker.
+Try not to get knocked down yourself!
+WASD to move.
+F to throw components.
+Space to jump.
 
 Most likely tech stack:  
 Unreal Engine 5  
 FL Studio  
 Blender  
-3d Scanning  
 
 Main milestones (at least 5) that help you stay on track:  
 Basic gameplay  
