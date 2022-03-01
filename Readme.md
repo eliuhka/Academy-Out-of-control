@@ -24,3 +24,8 @@ Basic gameplay
 3d animations  
 Sound effects  
 Soundtrack  
+
+BUILD INSTRUCTIONS:
+1. Clone this repo to your preffered machine
+2. Open test.uproject with Unreal Engine 5
+3. And hit Play!
